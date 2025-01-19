@@ -18,12 +18,15 @@ A simple calculator web application built with HTML, CSS, and JavaScript. This p
 
 ## File Structure
 
+```plaintext
 calculator-app/
 │
 ├── index.html    # Main HTML structure of the app
 ├── style.css     # Styles for the calculator UI
 ├── script.js     # JavaScript to manage calculator functionality
-└── README.md     # Project documentation
+├── README.md     # Project documentation
+└── LICENSE       # License file (MIT License)
+```
 
 
 ## How to Run
