@@ -45,7 +45,7 @@ calculator-app/
 
 ## Demo
 
-[Live Demo](droll-calculator.netlify.app)
+[Live Demo](https://droll-calculator.netlify.app)
 
 ## Contributing
 
